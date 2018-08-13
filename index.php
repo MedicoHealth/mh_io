@@ -56,18 +56,19 @@
 		  "@type": "Organization",
 		  "url": "http://medicohealth.io",
 		  "name": "Medicohealth AG",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Zug, Switzerland",
-			"postalCode": "6300",
-			"streetAddress": "Steinhauserstrasse 74"
-		},
-		"email": "info@medicohealth.io"
+          "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Zug, Switzerland",
+              "postalCode": "6300",
+              "streetAddress": "Steinhauserstrasse 74"
+          },
+          "email": "info@medicohealth.io"
 		}
 		</script>
 	</head>
 	<body>
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/startofbody.php';?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/modal.php';?>
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/menu.php';?>
 		<div id="main">
 			<!-- SECTION: INTRO !-->

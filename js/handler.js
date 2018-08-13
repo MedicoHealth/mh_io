@@ -73,16 +73,24 @@ $(document).ready(function(){
 		}
 		mobilecounter++;
 	});
+    setTimeout(function(){
+        $('#ac-wrapper').css({ 'display':'flex' });
+    }, 2000);
 });
 
-var moreButtonRotation = 0;
+var moreButtonRotation = 90;
+
 function openChimp(){
     $('#marketing-more').slideToggle('slow');
-    if (moreButtonRotation == 0) {
-        moreButtonRotation = 90
+    if (moreButtonRotation == 90) {
+        moreButtonRotation = -90
     } else {
-        moreButtonRotation = 0
+        moreButtonRotation = -90
     }
-    $('#more-button').css({ 'transform':'rotate('+moreButtonRotation+'deg)' });
+        $('#more-button').css({ 'background':'linear-gradient('+moreButtonRotation+'deg, #486ae5, #31c4f1)' });
 
+}
+
+function closeModal(){
+    $('#ac-wrapper').css({ 'display':'none' });
 }
