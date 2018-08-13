@@ -673,8 +673,6 @@ text-decoration:none;
     }
     .dual-flex{
         margin: 10px;
-		border-radius: 11px;
-        overflow: hidden;
         display: flex;
     }
         #emailbuttonholder div{
@@ -700,6 +698,7 @@ text-decoration:none;
             }
         #marketing-more{
             display: none;
+            overflow: hidden;
         }
             #marketing-more .dual-flex input:nth-child(1){
                 margin-right: 5px;
@@ -949,13 +948,17 @@ text-decoration:none;
 	.buttonnotice {
 		right: 30%;
 	}
+    #chimp-marketing{
+        width: 100%;
+        margin: 10px 0px;
+    }
 }
 @media screen and (max-width: 650px) {
 	#angelinvestment {
 		font-size: 14px;
 		width: 40%;
 		line-height: 150%;
-		bottom:20%;
+		bottom: 20%;
 	}
 	#follow-menu{
 		border-radius: 0;
@@ -970,6 +973,17 @@ text-decoration:none;
 		font-weight: 500;
 		margin: 22px 7px;
 	}
+    #chimp-marketing  #emailbuttonholder{
+        display: block;
+    }
+    #marketing-more .dual-flex{
+        display: block;
+        margin: 10px 0 !important;
+    }
+    #marketing-more .dual-flex input{
+        width: auto;
+        margin: 5px 0 !important;
+    }
 }
 @media screen and (max-width: 560px) {
 	#angelinvestment {
