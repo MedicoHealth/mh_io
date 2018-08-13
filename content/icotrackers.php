@@ -1,6 +1,6 @@
 <span id="gototrackers"></span>
 <div id="icotrackers">
-	<h3 class="white">ICO TRACKERS</h3>
+	<h3>ICO TRACKERS</h3>
 
 	<a href="https://icobench.com/ico/medicohealth" target="_blank">
 		<img src="/img/trackers/logotipi_icobench.png" alt="icobench.com" class="icotracker"/>
@@ -52,7 +52,7 @@
 	
 	<br /><br /><br /><br />
 	<a href="/icosExternalMore.php" target="_blank">
-		<div class="alt-button centr">See more</div>
+		<div class="main-button centr">See more</div>
 	</a>
 	<br /><br />
 </div>

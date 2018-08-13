@@ -1,7 +1,7 @@
 <br /><br /><br />
 <?php
 if(!isset($icoBenchRating)) {
-  $icoBenchRating = 4.0;
+  $icoBenchRating = 4.5;
 }
 $referer = isset($_GET["referrer"]) ?  $_GET["referrer"] : null;
   $topIcoReviews = array(
