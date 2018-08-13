@@ -74,6 +74,8 @@
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/content/intro.php';?>
 			<!-- SECTION: PRESENTATIONAL ANIMATION !-->
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/content/animation.php';?>
+			<!-- SECTION: TOP ICO REVIEWS !-->
+			<?php include $_SERVER['DOCUMENT_ROOT'].'/content/topIcoReviews.php';?>
 			<!-- SECTION: PRESENTATIONAL VIDEO !-->
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/content/video.php';?>
 			<!-- SECTION: USER BENEFITS !-->

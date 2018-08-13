@@ -726,6 +726,26 @@ text-decoration:none;
 		#subscribeinput:-moz-placeholder { /* Firefox 18- */
 		  color: #35b3ef;
 		}
+		
+.topIcoReview {
+	display: inline-block;
+    margin: 30px;
+    box-shadow: 0 10px 20px rgba(72, 106, 229, 0.2);
+    width: 425px;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	text-align:left;
+}
+.topIcoReviewImage {
+    max-height: 80px;
+    height: 40px;
+    width: auto;
+    display: inline-block;
+    margin: auto;
+}
+		
 /* RESPONSIVE DESIGN */
 @media screen and (max-width: 1700px) {
 	#benefitswrapper{
@@ -850,6 +870,16 @@ text-decoration:none;
 	}
 	.presspost {
 		max-width: 250px;
+	}
+}
+@media screen and (max-width: 1030px) {
+	.topIcoReviewImage {
+		height: 44px;
+		display: block;
+		margin: 0;
+	}
+	.topIcoReview {
+		width: 290px;
 	}
 }
 @media screen and (max-width: 1000px) {
