@@ -6,7 +6,7 @@
             <input type="email" placeholder="EMAIL ADDRESS" name="EMAIL" class="email required subscribeinput">
         </div>
         <div>
-            <button onclick="openChimp()" id="more-button"><img src="/img/down-arrow.png" alt="Down Arrow" /></button>
+            <button onclick="openChimp()" class="main-button" id="more-button">Subscribe</button>
         </div>
     </div>
     <div id="marketing-more">
