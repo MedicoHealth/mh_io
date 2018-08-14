@@ -4,7 +4,8 @@
 				<div class="headers-container lefty">
 					<img src="/img/logo.png" alt="Medicohealth logo" id="top-logo" />
 					<h1>The biggest doctor-patient environment based on blockchain</h1>
-					<h2 class="weight400"><span class="weight700">Medicohealth Platform</span> will allow fully anonymous, safe, and efficient communication with the world’s leading physicians</h2>
+					<h2 class="weight400"><span class="weight700">Medicohealth</span> platform improving healthcare system by creating doctor — patient environment based on blockchain. Application creates possibility for fully anonymous, safe, and efficient communication with world’s leading healthcare specialists and provide own tokenized and secure payment system. Decentralized ledger technology enables traceability, data immutability and creation of secure methods for privacy protection that makes such platform perfectly fit for using in healthcare and other systems.</h2>
+					
 					<a href="/supporters/documents/one-pager.pdf" target="_blank">
     					<div class="main-button">
     						One pager

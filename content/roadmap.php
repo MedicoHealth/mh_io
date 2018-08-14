@@ -1,7 +1,6 @@
 <div id="roadmap">
-	<img id="beforeroadmap" src="/img/starterline.png" alt="before roadmap" />
 	<span id="gotoroadmap"></span>
-	<h3 class="white" id="roadmap-headder">ROADMAP</h3>
+	<h3 id="roadmap-headder">ROADMAP</h3>
 
 	<div class="timeline">
 	  <div class="container right">
@@ -106,3 +105,5 @@
 
 	<img id="plusafterroadmap" src="/img/bigplus.png" alt="big plus" />
 </div>
+
+<img id="mobileplusafterroadmap" src="/img/bigplus.png" alt="big plus" />

@@ -31,9 +31,6 @@ $defaultNews = array(
     'src' => '/img/press/8.cryptocoin.png',
     'text' => 'Medicohealth: Connecting Patients And Physicians Through The Blockchain',
   ),
-);
-
-$moreNews = array(
   array(
     'href' => 'https://irishtechnews.ie/medicohealth-extends-private-sale-and-welcomes-new-partner-dr-rolf-porsche/',
     'src' => '/img/press/16.itn3.png',
@@ -44,6 +41,9 @@ $moreNews = array(
     'src' => '/img/press/blogtiemn.png',
     'text' => 'Review MedicoHealth ICO – Kết nối bệnh nhân và bác sĩ trên nền tảng blockchain',
   ),
+);
+
+$moreNews = array(
   array(
     'href' => 'https://www.cryptoarabe.com/2018/04/18/medicohealth-the-biggest-blockchain-doctor-patient-environment/',
     'src' => '/img/press/17.cryptoarabe.png',

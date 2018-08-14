@@ -13,7 +13,7 @@
 		</a>
 	<?php
 		$counter++;
-		if($counter == 3) echo "<div id='newsnewline'></div>"; 
+		if($counter == 4) echo "<div id='newsnewline'></div>"; 
 	?>
 	<?php endforeach; ?>
 	<br /><br />

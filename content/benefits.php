@@ -24,6 +24,7 @@
 					</div>
 				</div>
 				
+				<img src="/img/doctor.png" id="mobile-doctor" alt="Doctor Medicohealth" />
 				<p id="angelinvestment"><span class="weight400">Medicohealth</span> already received an angel investment, therefore token buyers are contributing to a project that already went through the scrutiny of due diligence made by private investors.</p>
 
 				<img src="/img/benefits.png" id="doctor" alt="doctor" />

@@ -38,17 +38,18 @@ p{
 h1{
     color: #3177e6;
     font-weight: 200;
-    font-size: 48px;
+    font-size: 38px;
     line-height: 130%;
     text-align: left;
     max-width: 430px;
-    margin: 57px 0;
+    margin: 20px 0;
 }
 h2{
 	max-width: 430px;
     color: #35b3ef;
-    line-height: 130%;
-    margin: 50px 0;
+    line-height: 140%;
+    font-size: 20px;
+    margin: 20px 0 30px 0;
 }
 h3{
     font-size: 28px;
@@ -324,7 +325,7 @@ text-decoration:none;
 		max-width:1400px;
 	}
 #top-logo{
-	max-width:230px;
+	max-width:250px;
 }
 #phone{
     margin-top: 90px;
@@ -337,7 +338,7 @@ text-decoration:none;
     margin: auto;
     display: inline-block;
     vertical-align: top;
-    margin: 50px 0;
+    margin: 15px 0;
 }
 .phone-container{
     background: url(/img/phone.png) no-repeat;
@@ -460,10 +461,10 @@ text-decoration:none;
 		border-radius: 135px;
 		-webkit-border-radius: 300px;
 		-moz-border-radius: 135px;
-		box-shadow: 15px 30px 60px rgba(72, 106, 229, 0.2);
+		box-shadow: 8px 15px 60px rgba(72, 106, 229, 0.2);
 	}
 		#benefitswrapper{
-			width: 575px;
+			width: 600px;
 			height: 800px;
 			position: absolute;
 			top: 400px;
@@ -476,6 +477,7 @@ text-decoration:none;
 			text-align: center;
 			display: inline-block;
 			vertical-align: top;
+			margin: 12px;
 		}
 
 		.benefits-description {
@@ -501,9 +503,12 @@ text-decoration:none;
 		line-height: 126%;
 		color: #fff;
 	}
-	#team{
-		background: linear-gradient(180deg, #f8fafe, #ffffff);
-		margin-top: -35px;
+	#mobile-doctor{
+		display:none;
+	}
+	#team {
+		background: linear-gradient(180deg, #ffffff, #ffffff);
+		margin-top: -100px;
 		padding-top: 50px;
 	}
 		.member{
@@ -555,7 +560,7 @@ text-decoration:none;
 #ambasadors{
     background: #2ac4f4;
     background: linear-gradient(#2ac4f4, #00c7fa);
-	margin-top: -40px;
+	margin-top: -4px;
 }
 #ambasadorsgradient{
 	width:100%;
@@ -569,7 +574,7 @@ text-decoration:none;
 	position:relative;
 }
 #roadmap-headder{
-	padding-top: 300px;
+	padding-top: 325px;
 }
 #roadmap-footer{
     width:100%;
@@ -593,7 +598,7 @@ text-decoration:none;
     margin: auto;
 }
 #partners{
-	margin:100px 0;
+	margin: 0 0 100px 0;
 }
 .partnerlogo{
 	display: inline-block;
@@ -637,7 +642,7 @@ text-decoration:none;
 #icotrackers{
     background: linear-gradient(-90deg, #e5eaff, #b2ddff);
     width: 100%;
-    padding: 40px 0 200px 0;
+    padding: 40px 0 150px 0;
 	margin:130px 0;
 }
 	.icotracker{
@@ -653,6 +658,7 @@ text-decoration:none;
     padding: 20px;
     margin: -230px auto 80px auto;
     border-radius: 48px;
+	position:relative;
 }
 	.socialicon{
 		padding:3px;
@@ -759,20 +765,44 @@ text-decoration:none;
     display: inline-block;
     margin: auto;
 }
-		
+#socialsholder {
+    position: absolute;
+    left: 0;
+    right: 0;
+    max-width: 90%;
+    margin: auto;
+    bottom: 5px;
+}
+#telegram-follower{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 30px;
+    background-color: #49afee;
+    border-radius: 100px;
+    padding: 10px;
+}
 /* RESPONSIVE DESIGN */
 @media screen and (max-width: 1700px) {
 	#benefitswrapper{
-		left: 230px;
+		left: 220px;
 	}
 	#angelinvestment{
 		bottom: 400px;
 		right:200px;
 	}
+	.benefit {
+		width: 42%;
+	}
 }
 @media screen and (max-width: 1600px) {
 	#benefitswrapper{
 		width:500px;
+	}
+}
+@media screen and (max-width: 1465px) {
+	#newsnewline{
+		display:none;
 	}
 }
 @media screen and (max-width: 1450px) {
@@ -937,6 +967,12 @@ text-decoration:none;
 		max-width: 230px;
 		margin: 20px;
 	}
+	#benefits-title {
+		top: 40px;
+	}
+	#benefitswrapper {
+		padding-top: 150px;
+	}
 }
 @media screen and (max-width: 900px) {
 	#angelinvestment {
@@ -946,9 +982,6 @@ text-decoration:none;
 	}
 }
 @media screen and (max-width: 890px) {
-	#newsnewline{
-		display:none;
-	}
 	.presspost {
 		max-width: 300px;
 	}
@@ -1034,17 +1067,27 @@ text-decoration:none;
         width: auto;
         margin: 5px 0 !important;
     }
-}
-@media screen and (max-width: 560px) {
-	#angelinvestment {
-		width: 27%;
-		bottom: 10%;
+	#more-button {
+		margin: 10px;
 	}
 }
 @media screen and (max-width: 600px) {
 	.righty{
 		text-align:left;
 	}
+	#roadmap-headder{
+		padding-top:0;
+	}
+}
+@media screen and (max-width: 560px) {
+	#angelinvestment {
+		width: 27%;
+		bottom: 10%;
+	}
+	#roadmap-footplaceholder {
+		display: none;
+	}
+	
 }
 @media screen and (max-width: 500px) {
 	h1{
@@ -1087,10 +1130,11 @@ text-decoration:none;
 		width: 85%;
 		margin: auto;
 		padding:10px;
+		position:relative;
 	}
 	.socialicon {
-		padding: 5px;
-		margin: 15px;
+		padding: 3px;
+		margin: 2px;
 		width: 30px;
 	}
 	img {
@@ -1105,8 +1149,10 @@ text-decoration:none;
 	.timeblock{
 		margin:0 2px;
 	}
+	#icotrackers{
+		padding-bottom: 40px;
+	}
 }
-
 @media screen and (max-width: 480px) {
 	#doctor{
 		display:none;
@@ -1117,10 +1163,20 @@ text-decoration:none;
 		width: 90%;
 		text-align: center;
 		margin: 60px auto;
-		/* background-color: #222; */
+		margin-top:0;
 		background: linear-gradient(-90deg, #486ae5, #31c4f1);
 		color: #fff;
 		padding: 10px;
+	}
+	#mobile-doctor{
+		display:block;
+		margin-top:20px;
+	}
+}
+@media screen and (max-width: 455px) {
+	.member{
+		max-width: 255px;
+		width: 90%;
 	}
 }
 
