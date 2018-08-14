@@ -92,7 +92,7 @@
 	  <div class="container right">
 		<div class="content">
 		  <p class="year">2021</p>
-		  <p>
+		  <p class="righty">
 			Establishing cooperations with Clinical research and trials. <br />
 			Expanding to China. <br />
 			Further Asia expansion.
