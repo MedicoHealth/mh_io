@@ -562,8 +562,7 @@ text-decoration:none;
                 left: 0px;
 			}
 #ambasadors{
-    background: #2ac4f4;
-    background: linear-gradient(#2ac4f4, #00c7fa);
+    background: linear-gradient(#02c7fb, #00c7fa);
 	margin-top: -4px;
 }
 #ambasadorsgradient{
