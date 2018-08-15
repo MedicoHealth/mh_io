@@ -647,7 +647,7 @@ text-decoration:none;
     background: linear-gradient(-90deg, #e5eaff, #b2ddff);
     width: 100%;
     padding: 40px 0 150px 0;
-	margin:130px 0;
+    margin: 0 auto 130px auto;
 }
 	.icotracker{
 		margin:20px;
