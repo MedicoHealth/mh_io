@@ -29,3 +29,4 @@
 
 				<img src="/img/benefits.png" id="doctor" alt="doctor" />
 			</div>
+<img src="/img/logo-footer.png" alt="Medicohealth logo" id="benefits-mobile-logo" />

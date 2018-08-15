@@ -507,6 +507,9 @@ text-decoration:none;
 	#mobile-doctor{
 		display:none;
 	}
+	#benefits-mobile-logo{
+		display:none;
+	}
 	#team {
 		background: linear-gradient(180deg, #ffffff, #ffffff);
 		margin-top: -100px;
@@ -1153,6 +1156,14 @@ text-decoration:none;
 	#doctor{
 		display:none;
 	}
+	#mobile-doctor{
+		display:block;
+		margin-top:20px;
+	}
+	#benefits-mobile-logo{
+		display: block;
+		margin: 0 auto 75px auto;
+	}
 	#angelinvestment {
 		position: static;
 		font-size: 22px;
@@ -1167,10 +1178,6 @@ text-decoration:none;
 		-moz-border-radius: 10px;
 		-webkit-border-radius: 10px;
 		box-shadow: 0 10px 20px rgba(72, 106, 229, 0.2);
-	}
-	#mobile-doctor{
-		display:block;
-		margin-top:20px;
 	}
 	#top-logo {
 		max-width: 300px;
