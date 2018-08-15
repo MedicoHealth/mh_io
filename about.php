@@ -33,7 +33,7 @@
 		<div id="main">
 			<span id="gotohome"></span>
 			<h1>ABOUT</h1>
-
+Medicohealth Platform</span> will allow fully anonymous, safe, and efficient communication with the world’s leading physicians
 
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/footer.php';?>
 		</div>
