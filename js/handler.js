@@ -19,10 +19,9 @@ $(document).ready(function(){
 	  });
 
 	// COUNTDOWN
-	// $('#clock').countdown('2018/9/1 18:00', function(event) {
-	//   $(this).html(event.strftime('<div class="timeblock">%-D<span class="timedesc">days</span></div><div class="timeblock">%-H<span class="timedesc">hours</span></div><div class="timeblock">%-M<span class="timedesc">minutes</span></div>'));
-	// });
-	$('#clock').html('<div class="timeblock">12<span class="timedesc">days</span></div><div class="timeblock">57<span class="timedesc">hours</span></div><div class="timeblock">33<span class="timedesc">minutes</span></div>');
+	$('#clock').countdown('2018/9/1 18:00', function(event) {
+		$(this).html(event.strftime('<div class="timeblock">%-D<span class="timedesc">days</span></div><div class="timeblock">%-H<span class="timedesc">hours</span></div><div class="timeblock">%-M<span class="timedesc">minutes</span></div>'));
+	});
 
 	// PLAY / PAUSE VIDEO
 	$('#presentation-video').onScreen({
