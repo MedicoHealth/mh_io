@@ -3,67 +3,67 @@
 $partners = array(
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/belmedic.png",
+    'url'=> $root."/img/partners/belmedic.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/bitins.png",
+    'url'=> $root."/img/partners/bitins.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/BTC.png",
+    'url'=> $root."/img/partners/BTC.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/ekociscenje.png",
+    'url'=> $root."/img/partners/ekociscenje.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/ewiv.png",
+    'url'=> $root."/img/partners/ewiv.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/jozefstefan.png",
+    'url'=> $root."/img/partners/jozefstefan.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/porschehealth.png",
+    'url'=> $root."/img/partners/porschehealth.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/precisionmedicine.png",
+    'url'=> $root."/img/partners/precisionmedicine.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/prittwittz.png",
+    'url'=> $root."/img/partners/prittwittz.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/sunjhaid.png",
+    'url'=> $root."/img/partners/sunjhaid.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/systc.png",
+    'url'=> $root."/img/partners/systc.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/springer.png",
+    'url'=> $root."/img/partners/springer.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/zzzdravje.jpg",
+    'url'=> $root."/img/partners/zzzdravje.jpg",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/bitenc.jpg",
+    'url'=> $root."/img/partners/bitenc.jpg",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/aaci.png",
+    'url'=> $root."/img/partners/aaci.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/plugmann.png",
+    'url'=> $root."/img/partners/plugmann.png",
   )
 )
 ?>

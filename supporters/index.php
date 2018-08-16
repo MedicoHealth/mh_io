@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css?v=20">
-  
+
     <script type="text/javascript">
         window.smartlook||(function(d) {
         var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
@@ -123,7 +123,7 @@
   } ?>
   <a href="#" class="sf-back-to-top">
     <img style="width: 100%;
-    height: 100%;" src="../images/topArrow.png"></img>
+    height: 100%;" src="../img/topArrow.png"></img>
     <!--
     <span class="arrow"></span>
     Top

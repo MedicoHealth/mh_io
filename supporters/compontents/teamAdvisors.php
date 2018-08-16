@@ -12,7 +12,7 @@ $teamSliced = array_slice ( $advisor_members , 0 , 4 );
 ?>
 <?php foreach ($teamSliced as $key => $team):?>
     <div  class="team-col col-md-4 col-lg-3" data-toggle="tooltip" data-html="true" title="<h3><?php echo $team["Name Surename"];?></h3><?php echo $team["Text"];?>">
-      <img class="rounded-circle" src="<?php echo $root?>/img_team/<?php echo get_image_name($team["Name Surename"], 'advisors');?>" alt="Generic placeholder image" width="180" height="180">
+      <img class="rounded-circle" src="<?php echo $root?>/img/ambasadors/<?php echo get_image_name($team["Name Surename"], 'advisors');?>" alt="Generic placeholder image" width="180" height="180">
       <h4><?php echo $team["Name Surename"];?></h4>
       <p><?php echo $team["Tittle"];?></p>
       <a data-toggle="collapse" data-target="#advisorMember<?php echo $key; ?>" class="showMobile" href id="advisorClick<?php echo $key; ?>" onclick="hide('advisorClick<?php echo $key; ?>')">Read more »</a>
