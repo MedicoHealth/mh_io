@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://medicohealth.io/ico-investors-deck.php</loc>
+  <lastmod>2018-08-16T13:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/whitepaper.php</loc>
+  <lastmod>2018-08-16T13:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/</loc>
+  <lastmod>2018-08-16T13:50:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/supporters/documents/one-pager.pdf</loc>
+  <lastmod>2018-08-16T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/supporters/documents/wp-beta.pdf?v=1</loc>
+  <lastmod>2018-08-16T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/mediaandpress.php</loc>
+  <lastmod>2018-08-16T13:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://medicohealth.io/icosExternalMore.php</loc>
+  <lastmod>2018-08-16T13:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>

@@ -13,7 +13,7 @@
 		<meta name="web_author" content="Medicohealth AG">
 		<meta name="copyright" content="Copyright (c) 2018, Medicohealth AG">
 		<meta name="description" content="Medicohealth is a blockchain-based project designed to improve the fragmented healthcare system, where we know we can make a significant difference.">
-		<meta name="keywords" content="Medicohealth, medico health, blockchain, healthcare, crypto, presale, token">
+		<meta name="keywords" content="Medicohealth, medico health,blockchain business,development, healthcare, crypto, presale, token">
 		<meta property="og:locale" content="en_US">
 		<meta property="og:type" content="website">
 		<meta property="og:site_name" content="MedicoHealth">
