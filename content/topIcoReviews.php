@@ -18,9 +18,7 @@ $referer = isset($_GET["referrer"]) ?  $_GET["referrer"] : null;
               <div class="topIcoReview">
                       <img class="topIcoReviewImage" src="<?php echo $value['src'] ?>" alt="<?php echo $value['text'] ?>" >
                       <img
-                        class="topIcoReviewImage imageRating"
-                        style="float: right; max-width: 240px;"
-                        src="<?php echo $value['srcRating'] ?>" class="img-fluid" alt="<?php echo $value['text'] ?>" >
+                        class="topIcoReviewImage imageRating" src="<?php echo $value['srcRating'] ?>" class="img-fluid" alt="<?php echo $value['text'] ?>" >
               </div>
               </a>
         <?php } ?>
