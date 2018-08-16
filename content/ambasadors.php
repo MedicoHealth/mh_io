@@ -6,7 +6,7 @@
 	<br />
 		<?php foreach ($advisor_members as $team):?>
 			<div class="member">
-				<img src="/img/ambasadors/<?php echo get_image_name($team["Name Surename"], 'advisors');?>" alt="<?php echo $team["Name Surename"];?>" />
+				<img src="/img/advisors/<?php echo get_image_name($team["Name Surename"], 'advisors');?>" alt="<?php echo $team["Name Surename"];?>" />
 				<h5 class="white"><?php echo $team["Name Surename"];?></h5>
 				<p class="teamstatus white"><?php echo $team["Tittle"];?></p>
 				<?php
