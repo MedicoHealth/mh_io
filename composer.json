@@ -1,0 +1,7 @@
+{
+    "name": "mh/medicohealth-io",
+    "description": "MedicoHealth one-pager",
+    "type": "project",
+    "license": "MedicoHealth",
+    "require": {}
+}
