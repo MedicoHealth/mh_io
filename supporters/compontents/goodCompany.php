@@ -51,11 +51,11 @@ $partners = array(
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/img/partners/zzzdravje.jpg",
+    'url'=> $root."/img/partners/zzzdravje.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/img/partners/bitenc.jpg",
+    'url'=> $root."/img/partners/bitenc.png",
   ),
   array(
     'name'=> "partner",

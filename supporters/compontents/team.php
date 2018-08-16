@@ -71,7 +71,7 @@ $teamSliced = array(
 <?php foreach ($teamSliced as $key => $team):?>
   <?php $teamAdv = $team["Team"]=="Team" ? "team" : "advisors" ?>
     <div  class="team-col col-md-4 col-lg-3" data-toggle="tooltip" data-html="true" title="<h3><?php echo $team["Name Surename"];?></h3><?php echo $team["Text"];?>">
-      <img class="rounded-circle" src="<?php echo $root?>/img/team/<?php echo get_image_name($team["Name Surename"], $teamAdv);?>" alt="Generic placeholder image" width="180" height="180">
+      <img class="rounded-circle" src="<?php echo $root?>/img/$teamAdv/<?php echo get_image_name($team["Name Surename"], $teamAdv);?>" alt="Generic placeholder image" width="180" height="180">
       <h4><?php echo $team["Name Surename"];?></h4>
       <p><?php echo $team["Tittle"];?></p>
       <a data-toggle="collapse" data-target="#teamMember<?php echo $key; ?>" class="showMobile" style="color:#35b3ef;" href id="teamClick<?php echo $key; ?>" onclick="hide('teamClick<?php echo $key; ?>')">Read more »</a>
