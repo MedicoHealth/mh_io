@@ -18,12 +18,12 @@
   <meta property="og:title" content="Where healthcare revolution is taking place | MedicoHealth">
   <meta property="og:description" content="Our idea is simple. To use knowledge and experience to provide concrete changes not only patch and bandages to cover up. Countless hours were spent analyzing, listening to all sides of the story, building trust, advanced planning and generating concrete sustainable solution.">
   <meta property="og:url" content="https://medicohealth.io/supporters">
-  <meta property="og:image" content="https://medicohealth.io/images/sn-ld-og-img.png">
+  <meta property="og:image" content="https://medicohealth.io/IMG/sn-ld-og-img.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:description" content="Medicohealth is a blockchain-based project designed to improve the fragmented healthcare system, where we know we can make a significant difference for the better by tackling just one truly important issue.">
   <meta name="twitter:title" content="Where healthcare revolution is taking place | MedicoHealth">
   <meta name="twitter:site" content="@Medico_Health">
-  <meta name="twitter:image" content="https://medicohealth.io/images/social-fb-tw.png">
+  <meta name="twitter:image" content="https://medicohealth.io/IMG/social-fb-tw.png">
   <meta name="twitter:creator" content="@Medico_Health">
 
   <!-- te dve vrstici maš že dodadane not samo zamenjaj vsebino-->

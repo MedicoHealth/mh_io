@@ -10,7 +10,7 @@
         </div>
     </div>
     <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-right">
-        <a href="?page=main"><img src="<?php echo $root ?>/images/MHLogo.png" width="260" alt=""></a>
+        <a href="?page=main"><img src="<?php echo $root ?>/IMG/MHLogo.png" width="260" alt=""></a>
     </div>
 
 </div>

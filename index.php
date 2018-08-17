@@ -20,12 +20,12 @@
 		<meta property="og:title" content="MedicoHealth | Building bridges to better health">
 		<meta property="og:description" content="Medicohealth is a blockchain-based project designed to improve the fragmented healthcare system, where we know we can make a significant difference for the better by tackling just one truly important issue.">
 		<meta property="og:url" content="https://medicohealth.io/">
-		<meta property="og:image" content="https://medicohealth.io/images/sn-ld-og-img.png">
+		<meta property="og:image" content="https://medicohealth.io/IMG/sn-ld-og-img.png">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Medicohealth is a blockchain-based project designed to improve the fragmented healthcare system, where we know we can make a significant difference for the better by tackling just one truly important issue.">
 		<meta name="twitter:title" content="MedicoHealth | Building bridges to better health">
 		<meta name="twitter:site" content="@Medico_Health">
-		<meta name="twitter:image" content="https://medicohealth.io/images/social-fb-tw.png">
+		<meta name="twitter:image" content="https://medicohealth.io/IMG/social-fb-tw.png">
 		<meta name="twitter:creator" content="@Medico_Health">
 		<link rel="canonical" href="https://medicohealth.io/">
 		<!-- title -->

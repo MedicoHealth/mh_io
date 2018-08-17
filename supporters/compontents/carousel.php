@@ -1,6 +1,6 @@
 <div>
 <div style="display:none">
-<?php require($_SERVER['DOCUMENT_ROOT']."/topIcoReviews.php") ?>
+<?php require($_SERVER['DOCUMENT_ROOT']."/content/topIcoReviews.php") ?>
 </div>
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h2 class="featurette-heading">Ico ratings</h2>

@@ -2,15 +2,15 @@
 $partners = array(
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/thinkehr.png",
+    'url'=> $root."/IMG/partners/thinkehr.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/datafund.png",
+    'url'=> $root."/IMG/partners/datafund.png",
   ),
   array(
     'name'=> "partner",
-    'url'=> $root."/images/partners/origintrail.png",
+    'url'=> $root."/IMG/partners/origintrail.png",
   ),
 )
 ?>

@@ -1,5 +1,5 @@
 <nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-light navbar-custom">
-  <a class="navbar-brand" href="?page=main" style="max-width: 50%;"><img src="<?php echo $root ?>/img/logo.png" width="260" alt="" style="max-width: 100%;"></a>
+  <a class="navbar-brand" href="?page=main" style="max-width: 50%;"><img src="<?php echo $root ?>/img/logo-footer.png" width="260" alt="" style="max-width: 100%;"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
