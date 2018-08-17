@@ -10,6 +10,6 @@
 			<a href="https://twitter.com/Medico_Health"><img src="/img/socials/twitter.png" alt ="Twitter" class="socialicon" /></a>
 			<a href="https://medium.com/@MedicoHealth.io"><img src="/img/socials/medium.png" alt ="Medium" class="socialicon" /></a>
 			<a href="https://bitcointalk.org/index.php?topic=3199556"><img src="/img/socials/bitcointalk.png" alt ="Bitcointalk" class="socialicon" /></a>
-			<a href="https://github.com/MedicoHealth/MedicoHealth.io"><img src="/img/socials/github.png" alt ="GitHub" class="socialicon" /></a>
+			<a href="https://github.com/MedicoHealth"><img src="/img/socials/github.png" alt ="GitHub" class="socialicon" /></a>
 		</div>
 	</div>
