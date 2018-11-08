@@ -2,6 +2,9 @@
 <div id="partners">
 <h3>PARTNERS</h3>
 
+	<a href="https://www.infonet.si/en/" target="_blank">
+		<img src="img/partners/srcInfonet.png" alt="SRCInfonet" class="partnerlogo" />
+	</a>
 	<a href="http://www.belmedic.rs/" target="_blank">
 		<img src="img/partners/belmedic.png" alt="BelMedic" class="partnerlogo" />
 	</a>
